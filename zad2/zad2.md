@@ -23,3 +23,5 @@ Wartości odżywcze ryżu białego:
 białko | węglowodany | tłuszcz
 :-------------------:|:-------------------:|:--------------------:
       7,90 g |  79 g| 0,9 g
+
+      
