@@ -1,5 +1,5 @@
-pojemnoœæ dysku: 238 GB
-iloœæ pamiêci RAM: 8GB
-rodzaj i prêdkoœæ procesora: Intel(R) Core(TM) i5-8250U CPU
+pojemnoÅ›Ä‡ dysku: 238 GB
+iloÅ›Ä‡ pamiÄ™ci RAM: 8GB
+rodzaj i prÄ™dkoÅ›Ä‡ procesora: Intel(R) Core(TM) i5-8250U CPU
 				1.60 GHz	1.80 GHz
 64-bitowy system
